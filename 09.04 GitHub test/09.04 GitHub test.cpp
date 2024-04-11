@@ -8,4 +8,5 @@ int main() {
 	cout << "\nUlan umni";
 	cout << "\nBogdan tozhe";
 	return 0;
+	std::cout << "ewfewf";
 }
